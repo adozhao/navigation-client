@@ -1,0 +1,16 @@
+@import './element-ui-reset.scss';
+
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-size: 14px;
+    line-height: 1.5;
+}
+.fullwidth{
+    width: 100%;
+}
+.mt-2{
+    margin-top: 20px;
+}
